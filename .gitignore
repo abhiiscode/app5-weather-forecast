@@ -3,3 +3,4 @@ venv
 App_Design.png
 api.env
 images/ 
+.streamlit/secrets.toml 
