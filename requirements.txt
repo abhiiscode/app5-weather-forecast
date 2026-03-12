@@ -2,3 +2,4 @@ streamlit
 requests 
 python-dotenv 
 plotly 
+plotly==5.18.0 
