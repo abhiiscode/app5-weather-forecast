@@ -2,3 +2,4 @@ venv
 .idea
 App_Design.png
 api.env
+images/ 
