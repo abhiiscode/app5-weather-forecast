@@ -1,9 +1,8 @@
 import requests
 import os
 from dotenv import load_dotenv
-from pathlib import Path
 
-load_dotenv(Path(__file__).parent / "api.env")
+load_dotenv()
 
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
